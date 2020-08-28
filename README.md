@@ -8,3 +8,6 @@ Link: https://dev.to/beeman/introduction-to-building-api-s-with-nestjs-and-nrwl-
 
 Segundo: "Set up and configure a new Nx Workspace"
 Link: https://dev.to/beeman/set-up-and-configure-a-new-nx-workspace-1oh6
+
+Terceiro: "Add a NestJS API to a Nx Workspace"
+Link: https://dev.to/beeman/add-a-nestjs-api-to-a-nx-workspace-24f
