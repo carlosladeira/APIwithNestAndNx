@@ -11,3 +11,6 @@ Link: https://dev.to/beeman/set-up-and-configure-a-new-nx-workspace-1oh6
 
 Terceiro: "Add a NestJS API to a Nx Workspace"
 Link: https://dev.to/beeman/add-a-nestjs-api-to-a-nx-workspace-24f
+
+Quarto: "Add GraphQL to a NestJS API in a Nx Workspace"
+Link: https://dev.to/beeman/add-graphql-to-a-nestjs-api-in-a-nx-workspace-2p8n
